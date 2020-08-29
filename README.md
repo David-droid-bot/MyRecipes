@@ -1,2 +1,2 @@
 # MyRecipes
-Using Visual Studio Code
+MyRecipes
